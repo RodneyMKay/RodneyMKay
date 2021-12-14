@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RodneyMKay
-- 👀 I’m interested in Kotlin, NuxtJS and Minecraft
+- 👀 I’m interested in Kotlin, web development and Minecraft
 - 🌱 I’m currently learning coroutine internals
 - 💞️ I’m looking to collaborate on bringing Kotlin to the Minecraft community
 - 📫 Shoot me a message on Discord: Rodney#1203
